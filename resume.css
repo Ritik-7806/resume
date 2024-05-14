@@ -1,0 +1,104 @@
+#container{
+    color: white;
+    background-color: black;
+    height: 1494px;
+}
+#a1{
+    text-align: center;
+
+}
+#b{display: flex;
+    justify-content: space-evenly;
+
+}
+#b1{
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+    background-image: url('rs.jpg');
+    background-size: cover;
+}
+#b2{
+    height: 400px;
+    width: 800px;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: solid;  
+}
+#c{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+    color: black;
+    font-style: oblique;
+}
+#co{
+    font-size: large;
+    font-style: italic;
+    text-decoration: solid;
+}
+#d{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+    color: black;
+    font-style: oblique;
+}
+#eb{
+    font-size: large;
+    font-style: italic;
+    text-decoration: solid;
+}
+#e{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+    color: black;
+    font-style: oblique;
+}
+#s{
+    font-size: large;
+    font-style: italic;
+    text-decoration: solid;
+
+}
+#f{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+    color: black;
+    font-style: oblique;
+}
+#ac{
+    font-size: large;
+    font-style: italic;
+    text-decoration: solid;
+
+}
+#g{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    background-color: grey;
+    color: black;
+    font-style: oblique;
+}
+
